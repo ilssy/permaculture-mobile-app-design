@@ -9,7 +9,8 @@ Learn about the sowing (or planting), water, sun and soil needs of the plants an
 Schedule tasks and connect with your neighbours. Perhaps they are interested in exchanging some seeds or organising an educational seminar. 
 
 ## UI Design
-Designed with Figma.
+Designed with [Figma](https://www.figma.com/).
+Photos from [Unsplash](https://unsplash.com/).
 #### Home 
 ![Home](ui_design/home.PNG "Home") 
 #### Plant search 
